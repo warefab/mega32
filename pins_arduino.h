@@ -2,7 +2,7 @@
 
 /*  
     Modified :  Muchiri john [john@warefab.com]
-				Bob Afwata [bobraphtoneafwata@gmail.com]
+                Bob Afwata [bobraphtoneafwata@gmail.com]
 	changes  :  * To match arduino pin mapping e.g D0 should be PORTD0 not PORTB0
 			    * Add hardware pwm definition
 				* Add analog pin definition, A0--A7
